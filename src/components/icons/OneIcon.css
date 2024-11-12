@@ -1,0 +1,29 @@
+
+.icon-container {
+    display: flex;
+    flex-wrap: wrap; 
+    gap: 16px; 
+    justify-content: center; 
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 50px 0;
+}
+
+.one-icon {
+   height: 400px;
+   width: 300px;
+   align-items: center;
+   font-family: 'Arial', sans-serif;
+   font-weight: bold;
+}
+
+.one-icon img {
+    max-height: 100px;
+    border-radius: 10px;
+}
+
+.one-image {
+    font-size: 50px;
+    color: brown;
+}

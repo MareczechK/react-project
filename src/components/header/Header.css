@@ -1,0 +1,28 @@
+.header-container {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(to right, #69a8e7, #001727); 
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    color: transparent; 
+}
+
+.icon {
+    font-size: 100px;
+    opacity: 0.6;
+}
+
+.text-container h2 {
+    display: inline; 
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+}
+
