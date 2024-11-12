@@ -1,4 +1,9 @@
-/* Marek Kopička */
+/* Marek Kopička 
+discord:
+Marek K
+norm9012
+m.kopicka@seznam.cz
+*/
 
 
 import { BrowserRouter, Routes, Route } from "react-router-dom"
